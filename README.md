@@ -5,9 +5,11 @@ this project use 4 send and receive sensor for vend-pad
 
 ## PCB Layers
 
-<img src="Documentation/Images/IR-sensor-1.png" width="500">
-<img src="Documentation/Images/IR-sensor-2.png" width="500">
-
+<div align="center">
+  <img src="Documentation/Images/PCB-1.png" width="700">
+  <br><br>
+  <img src="Documentation/Images/PCB-2.png" width="700">
+</div>
 
 ## List Components
 
