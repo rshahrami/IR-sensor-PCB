@@ -11,7 +11,9 @@ this project use 4 send and receive sensor for vend-pad
 
 ## List Components
 
-<img src="Documentation/Images/IR-sensor.pdf">
+<a href="Documentation/IR-sensor.pdf">
+Download List Components PDF
+</a>
 
 
 ## check List
