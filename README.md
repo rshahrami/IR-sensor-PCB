@@ -16,5 +16,5 @@ Download List Components PDF
 </a>
 
 
-## check List
+## Check List
 - [x] add 74hc32 for stable output
